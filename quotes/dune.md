@@ -9,4 +9,9 @@
 - "An Animal Caught In A Trap Will Gnaw Off Its Own Leg To Escape. What Will You Do?"
 - "When Is A Gift Not A Gift?"
 - "The spice must flow."
+<<<<<<< HEAD
 >>>>>>> 6358069 (H: BG are sneaky)
+=======
+- "Fear is the mind-killer."
+
+>>>>>>> ee98f1f (I: adding 2nd dune quote)
